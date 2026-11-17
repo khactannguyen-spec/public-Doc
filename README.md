@@ -4,13 +4,7 @@ Website tài liệu công khai cho EzPrint / SPXExpress Lâm Đồng.
 
 ## Website
 
-Sau khi bật GitHub Pages cho repository, website sẽ có địa chỉ mặc định:
-
-https://khactannguyen-spec.github.io/public-Doc/
-
-## Privacy Policy
-
-https://khactannguyen-spec.github.io/public-Doc/privacy-policy.html
+Website được xuất bản bằng GitHub Pages từ nhánh `main` của repository này. Đường dẫn website được quản lý trong phần cài đặt Pages của repository.
 
 ## Cấu trúc
 
@@ -29,4 +23,4 @@ Repository Settings → Pages → Build and deployment → Deploy from a branch 
 
 ## Public data boundary
 
-Only prepared public-facing documents are included. Do not upload extension source, AI collaboration logs, raw HAR captures, shipment/customer records, credentials, tokens, cookies, or internal operational logs.
+Only prepared public-facing documents are included. Do not upload extension source, AI collaboration logs, raw HAR captures, shipment/customer records, credentials, tokens, cookies, endpoint addresses, network identifiers, or internal operational logs.
