@@ -3,8 +3,7 @@
 **Product:** EzPrint — v2.0.4 Experimental  
 **Intended audience:** Authorized SPXExpress personnel  
 **Effective date:** 17 November 2026  
-**Privacy contact:** Nguyễn Khắc Tấn, Staff – Đà Lạt 02 Hub  
-**Email:** khactan.nguyen@spxexpress.com
+**Privacy contact:** Bộ phận/đầu mối hỗ trợ nội bộ SPXExpress được phân công
 
 ## 1. Purpose and scope
 
@@ -86,4 +85,4 @@ For privacy questions, data-handling inquiries, or support relating to EzPrint, 
 
 **Nguyễn Khắc Tấn**  
 Staff – Đà Lạt 02 Hub  
-**Email:** khactan.nguyen@spxexpress.com
+**Contact:** Please use the authorized internal SPXExpress support channel.
